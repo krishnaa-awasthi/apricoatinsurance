@@ -60,7 +60,7 @@ const About = ({ refProp }) => {
         {/* Text Section */}
         <div ref={textRef} className="flex-1 text-center lg:text-left">
           <h2 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-blue-900 mb-6">
-            Your Go-To Insurance Provider, Established in 2024
+            Your Go-To Insurance Provider
           </h2>
           <p className="text-gray-700 mb-4 text-lg">
             At Apricoat Insurance, we are dedicated to providing our clients with the highest level of customer service and the best insurance products available.
